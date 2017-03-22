@@ -1,5 +1,9 @@
 # Docker entrypoint and server exercises
 
+## Prerequisites
+
+[Install Docker and run hello-world](https://docs.docker.com/engine/getstarted/step_one/)
+
 ## Exercise 1
 
 1. Create a folder **cmd**, that contains two files: **Dockerfile** and **index.js**.
